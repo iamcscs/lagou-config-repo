@@ -6,6 +6,6 @@ myspring:
   username: 1521154086@qq.com
   # 注意这里不是邮箱密码，而是SMTP授权密码
   password: bathqdjejyleifda
-  port: 251
+  port: 25
   protocol: smtp
   default-encoding: UTF-8
